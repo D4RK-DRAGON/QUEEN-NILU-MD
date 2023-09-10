@@ -23,7 +23,7 @@ global.POSTGRESQL_URL = 'postgres://queen_nilu_md_user:xXpGBDI9oAyZFFd7pD1ixK0Rc
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94741366868'
 
 global.OWNER_NAME = 'Janiya_X'
 
