@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;NrA2zJZA#Hw6w4MzdgFSqrrnINqiAc0_LO_TzDO2Pb4dfg857UxI' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://queen_nilu_md_user:xXpGBDI9oAyZFFd7pD1ixK0RcVsMsImW@dpg-cjunn5vhdsdc73dvih60-a.frankfurt-postgres.render.com/queen_nilu_md'
 
 
 
@@ -31,7 +31,7 @@ global.TIMEZONE = 'Asia/Colombo'
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
